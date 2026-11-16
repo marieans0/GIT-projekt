@@ -1,0 +1,2 @@
+# GIT-projekt
+Projekt Smapshot
